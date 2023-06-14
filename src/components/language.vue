@@ -6,7 +6,7 @@
                 <select class="custom-select" v-model="lang" @change="handleChange($event)">
                     <option value="pl">polski</option>
                     <option value="en">english</option>
-                    <option value="de">Deautch</option>
+                    <option value="de">Deutsch</option>
                 </select>
 
             </div>
